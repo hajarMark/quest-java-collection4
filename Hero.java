@@ -1,5 +1,5 @@
-public class Hero {
 
+public class Hero {
     private String name;
     private int age;
 
